@@ -14,7 +14,7 @@ _Get started using GitHub in less than an hour._
 </header>
 
 <!--
-  <<< Author notes: Finish >>>
+  <<< Author notes: Finish >>> AAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
   Review what we learned, ask for feedback, provide next steps.
 -->
 
